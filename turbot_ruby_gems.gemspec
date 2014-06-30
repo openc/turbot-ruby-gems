@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
-  gem.version = "0.10"
+  gem.version = "0.11"
 
   gem.author      = "Turbot"
   gem.email       = "support@turbot.opencorporates.com"
@@ -21,7 +21,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "htmlentities", "4.3.2"
   gem.add_dependency "http-cookie", "1.0.2"
   gem.add_dependency "httparty", "0.13.1"
-  gem.add_dependency "httpclient", "2.4.0"
+ git l gem.add_dependency "httpclient", "2.4.0"
   gem.add_dependency "hutch", "0.9.0"
   gem.add_dependency "i18n", "0.6.9"
   gem.add_dependency "json", "1.8.1"
