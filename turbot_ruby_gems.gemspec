@@ -21,7 +21,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "htmlentities", "4.3.2"
   gem.add_dependency "http-cookie", "1.0.2"
   gem.add_dependency "httparty", "0.13.1"
- git l gem.add_dependency "httpclient", "2.4.0"
+  gem.add_dependency "httpclient", "2.4.0"
   gem.add_dependency "hutch", "0.9.0"
   gem.add_dependency "i18n", "0.6.9"
   gem.add_dependency "json", "1.8.1"
