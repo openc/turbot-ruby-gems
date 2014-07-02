@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
-  gem.version = "0.11"
+  gem.version = "0.12"
 
   gem.author      = "Turbot"
   gem.email       = "support@turbot.opencorporates.com"
@@ -38,6 +38,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "remote_table", "3.3.0"
   gem.add_dependency "rest-client", "1.6.7"
   gem.add_dependency "roo", "1.13.2"
+  gem.add_dependency "ruby-hmac", "0.4.0"
   gem.add_dependency "ruby-ole", "1.2.11.7"
   gem.add_dependency "ruby-rc4", "0.1.5"
   gem.add_dependency "rubyzip", "1.1.4"
