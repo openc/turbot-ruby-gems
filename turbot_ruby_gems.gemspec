@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
-  gem.version = "0.12"
+  gem.version = "0.13"
 
   gem.author      = "Turbot"
   gem.email       = "support@turbot.opencorporates.com"
@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = '>=1.9.2'
   gem.add_dependency "Ascii85", "1.0.2"
-  gem.add_dependency "activesupport", "3.2.17"
+  gem.add_dependency "activesupport", "4.1.4"
   gem.add_dependency "backports", "3.6.0"
   gem.add_dependency "builder", "3.2.2"
   gem.add_dependency "chronic", "0.10.2"
