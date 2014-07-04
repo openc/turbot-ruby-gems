@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
-  gem.version = "0.15"
+  gem.version = "0.16"
 
   gem.author      = "Turbot"
   gem.email       = "support@turbot.opencorporates.com"
@@ -31,7 +31,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "multi_xml", "0.5.5"
   gem.add_dependency "multipart-post", "2.0.0"
   gem.add_dependency "nokogiri", "1.6.2.1"
-  gem.add_dependency "openc_bot", "0.0.11"
+  gem.add_dependency "openc_bot", "0.0.16"
   gem.add_dependency "pdf-reader", "1.3.3"
   gem.add_dependency "pismo", "0.7.4"
   gem.add_dependency "rack", "1.5.2"
