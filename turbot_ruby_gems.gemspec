@@ -25,7 +25,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "hutch", "0.9.0"
   gem.add_dependency "i18n", "0.6.9"
   gem.add_dependency "json", "1.8.1"
-  gem.add_dependency "json-schema", "2.2.2"
   gem.add_dependency "mechanize", "2.7.3"
   gem.add_dependency "mime-types", "2.3"
   gem.add_dependency "multi_xml", "0.5.5"
