@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
-  gem.version = "0.22"
+  gem.version = "0.23"
 
   gem.author      = "Turbot"
   gem.email       = "support@turbot.opencorporates.com"
@@ -46,7 +46,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "scraperwiki", "3.0.2"
   gem.add_dependency "spreadsheet", "0.9.7"
   gem.add_dependency "sqlite3", "1.3.9"
-  gem.add_dependency "sqlite_magic", "0.0.3"
+  gem.add_dependency "sqlite_magic", "0.0.5"
   gem.add_dependency "stringex", "2.5.2"
   gem.add_dependency "thread_safe", "0.3.4"
   gem.add_dependency "to_regexp", "0.2.1"
