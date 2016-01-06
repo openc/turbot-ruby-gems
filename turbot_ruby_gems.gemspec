@@ -29,6 +29,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "multi_xml", "0.5.5"
   gem.add_dependency "multipart-post", "2.0.0"
   gem.add_dependency "nokogiri", "1.6.6.2"
+  gem.add_dependency "nori", "2.6.0"
   gem.add_dependency "openc_bot", "0.0.16"
   gem.add_dependency "pdf-reader", "1.3.3"
   gem.add_dependency "pismo", "0.7.4"
