@@ -34,6 +34,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "pdf-reader", "1.3.3"
   gem.add_dependency "pismo", "0.7.4"
   gem.add_dependency "rack", "1.5.2"
+  gem.add_dependency "rdf", "1.99.1"
   gem.add_dependency "remote_table", "3.3.0"
   gem.add_dependency "rest-client", "1.6.7"
   gem.add_dependency "retriable", "2.0.2"
