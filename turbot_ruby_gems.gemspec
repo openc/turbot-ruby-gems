@@ -2,14 +2,14 @@ Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
   gem.version = "0.30"
 
-  gem.author      = "Turbot"
-  gem.email       = "support@turbot.opencorporates.com"
-  gem.homepage    = "http://turbot.opencorporates.com/"
+  gem.author      = "OpenCorporates"
+  gem.email       = "bots@opencorporates.com"
+  gem.homepage    = "https://github.com/openc/turbot-ruby-gems"
   gem.summary     = "Metapackage to install gems provided by Turbot."
-  gem.description = ""
   gem.license     = "MIT"
 
   gem.required_ruby_version = '>=1.9.2'
+
   gem.add_dependency "Ascii85", "1.0.2"
   gem.add_dependency "activesupport", "4.1.4"
   gem.add_dependency "backports", "3.6.0"
