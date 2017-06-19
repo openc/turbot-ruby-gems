@@ -53,6 +53,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "stringex", "2.5.2"
   gem.add_dependency "thread_safe", "0.3.4"
   gem.add_dependency "to_regexp", "0.2.1"
+  gem.add_dependency "ttfunk", "1.4.0"
   gem.add_dependency "turbot-api", ">= 0.0.8"
   gem.add_dependency "turbotlib", "0.0.15"
   gem.add_dependency "tzinfo", "1.2.1"
