@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
-  gem.version = "0.32"
+  gem.version = "0.33"
 
   gem.author      = "OpenCorporates"
   gem.email       = "bots@opencorporates.com"
