@@ -28,6 +28,8 @@ Gem::Specification.new do |gem|
   gem.add_dependency "mime-types", "2.3"
   gem.add_dependency "multi_xml", "0.5.5"
   gem.add_dependency "multipart-post", "2.0.0"
+  gem.add_dependency "net-ssh", "~> 2.9.4"
+  gem.add_dependency "net-sftp", "~> 2.1.0"
   gem.add_dependency "nokogiri", "~> 1.6.7.2"
   gem.add_dependency "nori", "2.6.0"
   gem.add_dependency "openc_bot", "0.0.16"
