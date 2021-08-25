@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = "turbot-ruby-gems"
-  gem.version = "0.32"
+  gem.version = "0.33"
 
   gem.author      = "OpenCorporates"
   gem.email       = "bots@opencorporates.com"
@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
   gem.required_ruby_version = '>=1.9.2'
 
   gem.add_dependency "Ascii85", "1.0.2"
-  gem.add_dependency "activesupport", "~> 4.1.11"
+  gem.add_dependency "activesupport", "4.1.4"
   gem.add_dependency "backports", "3.6.0"
   gem.add_dependency "builder", "3.2.2"
   gem.add_dependency "chronic", "0.10.2"
@@ -28,6 +28,8 @@ Gem::Specification.new do |gem|
   gem.add_dependency "mime-types", "2.3"
   gem.add_dependency "multi_xml", "0.5.5"
   gem.add_dependency "multipart-post", "2.0.0"
+  gem.add_dependency "net-ssh", "~> 2.9.4"
+  gem.add_dependency "net-sftp", "~> 2.1.0"
   gem.add_dependency "nokogiri", "~> 1.6.7.2"
   gem.add_dependency "nori", "2.6.0"
   gem.add_dependency "openc_bot", "0.0.16"
